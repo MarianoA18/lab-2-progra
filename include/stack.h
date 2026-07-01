@@ -1,3 +1,4 @@
+/* Modulo: Stack. Implementa push, pop, peek e isEmpty usando una lista enlazada interna. */
 #ifndef STACK_H
 #define STACK_H
 
